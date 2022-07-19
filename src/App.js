@@ -1,9 +1,14 @@
-import './App.css';
+import Header from "./components/Header/Header";
+import Tasks from "./components/TasksList/TasksList";
+
+import styles from './App.module.scss';
+
 
 function App() {
   return (
-    <div className="App">
-
+    <div className={styles.App}>
+      <Header/>
+      <Tasks/>
     </div>
   );
 }

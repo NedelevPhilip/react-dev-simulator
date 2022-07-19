@@ -1,0 +1,16 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "done": false,
+      "title": "закончить стартовый проект",
+      "description": ""
+    },
+    {
+      "id": 2,
+      "done": true,
+      "title": "Написать Readme файл",
+      "description": "Smash nine margerines, blood oranges, and black cardamon in a large sauté pan over medium heat, boil for six minutes and blend with some doughnut."
+    }
+  ]
+}
